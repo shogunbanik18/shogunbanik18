@@ -1,7 +1,6 @@
-### 
+### Brief Information
  
 - 👋 Hi, I’m Shogun Banik
-- 🎓 I am in my pre final year studying Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata.
 - 👀 I’m interested in solving problems, creating cool stuff and hip-hop hehe
 - 🌱 I’m currently learning a lot of stuff :p
 - 👩‍💻 I practice Data Structures and Algortihms in C++.
