@@ -1,9 +1,8 @@
-###  Hi, I’m Shogun Banik👋
-
 <!--
 **shogunbanik18/shogunbanik18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 👋 Hi, I’m Shogun Banik
 - 🎓 I am in my pre final year studying Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata.
 - 👀 I’m interested in solving problems, creating cool stuff and hip-hop hehe
 - 🌱 I’m currently learning a lot of stuff :p
